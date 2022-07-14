@@ -2,6 +2,8 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {}
 
+// https://shields.io/badge/license-BSD/3-blue.svg link to BSD 3 Badge
+
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {}
